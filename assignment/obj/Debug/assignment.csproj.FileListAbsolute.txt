@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\project\assignment\assignment\bin\Debug\assignment.exe.config
+C:\Users\Asus\Desktop\project\assignment\assignment\obj\Debug\assignment.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\project\assignment\assignment\obj\Debug\assignment.frmArea.resources
+C:\Users\Asus\Desktop\project\assignment\assignment\obj\Debug\assignment.Properties.Resources.resources
+C:\Users\Asus\Desktop\project\assignment\assignment\obj\Debug\assignment.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\project\assignment\assignment\bin\Debug\assignment.exe
+C:\Users\Asus\Desktop\project\assignment\assignment\bin\Debug\assignment.pdb
+C:\Users\Asus\Desktop\project\assignment\assignment\obj\Debug\assignment.exe
+C:\Users\Asus\Desktop\project\assignment\assignment\obj\Debug\assignment.pdb
+C:\Users\Asus\Desktop\project\assignment\assignment\obj\Debug\assignment.frmVol.resources
+C:\Users\Asus\Desktop\project\assignment\assignment\obj\Debug\assignment.frmMain.resources
+C:\Users\Asus\Desktop\Git\Area & Volume Calculator\assignment\bin\Debug\assignment.exe.config
+C:\Users\Asus\Desktop\Git\Area & Volume Calculator\assignment\obj\Debug\assignment.exe
+C:\Users\Asus\Desktop\Git\Area & Volume Calculator\assignment\obj\Debug\assignment.pdb
